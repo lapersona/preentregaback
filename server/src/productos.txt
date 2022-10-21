@@ -1,0 +1,38 @@
+[
+	{
+		"title": "Iphone",
+		"price": 8999.5,
+		"desc": "Iphone",
+		"code": "123",
+		"thumbnail": "https://www.macstation.com.ar/img/productos/small/1680-1111.jpg",
+		"id": 1,
+		"stock": 1
+	},
+	{
+		"title": "Imac",
+		"price": 91500.5,
+		"desc": "Imac",
+		"code": "126",
+		"thumbnail": "https://www.macstation.com.ar/img/productos/small/1888-111.jpg",
+		"id": 2,
+		"stock": 1
+	},
+	{
+		"title": "Macbook",
+		"price": 90000.5,
+		"desc": "Macbook",
+		"code": "125",
+		"thumbnail": "https://www.macstation.com.ar/img/productos/2614-1.jpg",
+		"id": 3,
+		"stock": 1
+	},
+	{
+		"title": "Ipad",
+		"price": 29000.5,
+		"desc": "Ipad",
+		"code": "124",
+		"thumbnail": "https://www.macstation.com.ar/img/productos/2450-1.jpg",
+		"id": 4,
+		"stock": 1
+	}
+]
